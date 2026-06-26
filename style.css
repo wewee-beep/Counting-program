@@ -1,16 +1,11 @@
-#body{
-    background-color: blueviolet;
-}
-
+#body{background-color: blueviolet;}
 #countlabel{
     display: block;
     text-align: center;
     font-size: 12em;
     font-family: helvetica;
     margin-top: 15%;
-    
-}
-
+    }
 #btncontainer{text-align: center;}
 .btns{
     padding: 10px 20px;
@@ -20,7 +15,6 @@
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.25s;
-}
-.btns:hover{
-    background-color:hsl(214, 100%, 56%);
-}
+    }
+.btns:hover{background-color:hsl(214, 100%, 56%);}
+
